@@ -36,7 +36,7 @@
   /></a>
 </p> -->
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
@@ -78,4 +78,4 @@
     src="https://github-readme-stats.vercel.app/api?username=aadarsh-131&count_private=true&show_icons=true&theme=synthwave&text_color=ffbb00&hide_border=true&cache_seconds=1800&locale=en"
 <!--     alt="Mohammed Saif - Nviera" -->
   />
-</p>
+</p> -->
