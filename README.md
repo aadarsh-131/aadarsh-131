@@ -76,6 +76,6 @@
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=aadarsh-131&count_private=true&show_icons=true&theme=synthwave&text_color=ffbb00&hide_border=true&cache_seconds=1800&locale=en"
-<!--     alt="Mohammed Saif - Nviera" -->
+     alt="Mohammed Saif - Nviera"
   />
 </p> -->
