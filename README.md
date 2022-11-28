@@ -16,7 +16,7 @@
 - 📫 How to reach me **aadarsh@nviera.com** - 
 - 👨‍💻  Software Engineer
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammedsaif001/" target="blank"
     ><img
@@ -34,7 +34,7 @@
       height="30"
       width="40"
   /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -76,6 +76,6 @@
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=aadarsh-131&count_private=true&show_icons=true&theme=synthwave&text_color=ffbb00&hide_border=true&cache_seconds=1800&locale=en"
-    alt="Mohammed Saif - Nviera"
+<!--     alt="Mohammed Saif - Nviera" -->
   />
 </p>
