@@ -9,11 +9,11 @@
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=aadarsh-131-nviera&label=Profile%20views&color=5cc0ff&style=plastic"
-<!--     alt="mohammedsaif001_Github" -->
+<!--     alt="Aadarsh-131_Github" -->
   />
 </p>
 
-- 📫 How to reach me **aadarsh@nviera.com** - 
+- 📫 How to reach me **aadarshkumar131@gmail.com** or **aadarshkumar1312@gmail.com**- 
 - 👨‍💻  Software Engineer
 
 <!-- <h3 align="left">Connect with me:</h3>
